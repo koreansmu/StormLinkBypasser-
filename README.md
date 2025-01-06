@@ -9,7 +9,7 @@
 
 <i>A **Elegant Fast Multi Threaded Bypass Telegram Bot** for Bigger Deeds like Mass Bypass. Try Now, and Feel the Speedy Work.</i>
 
-[**Demo Bot**](https://t.me/FZBypassBot) | [**Supported Sites**](#supported-sites) | [**Support Group**](https://t.me/FXTorrentz)
+[**Demo Bot**](https://t.me/FZBypassBot) | [**Supported Sites**](#supported-sites) | [**Support Group**](https://t.me/storm_core)
 
 </div>
 
